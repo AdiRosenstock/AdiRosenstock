@@ -1,29 +1,9 @@
 📍 Northwestern University  
-🎓 Data Science + Economics  
+🎓 Data Science + Economics @ Northwestern University
 ⚽ Interested in tech, soccer analytics, data science, and finance  
 🚀 Building data-driven projects
 
----
-
-## 🛠️ Skills
-
-- Python
-- C
-- C++
-- SQL
-- Java
-- React
-- R
-- Machine Learning
-- Web development
-
----
-
-## 📌 Projects
-
-- **TikiData FC** – Football analytics and visualizations  
-- **IMC Prosperity Trading Bot** – Algorithmic trading competition project  
-- **DomusAI** – Hackathon project focused on community and events  
+English · Spanish · Hebrew 
 
 ---
 
