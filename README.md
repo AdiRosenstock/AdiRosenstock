@@ -1,11 +1,15 @@
-📍 Northwestern University  
-🎓 Data Science + Economics @ Northwestern University
-⚽ Interested in tech, soccer analytics, data science, and finance  
+# Adi Rosenstock 🙋‍♂️
+
+📍 Northwestern University   
+🎓 Data Science + Economics @ Northwestern University  
+⚽ Interested in tech, data science, and finance  
 🚀 Building data-driven projects
+  
+<br>
 
-
-English · Spanish · Hebrew 
-
+🇺🇸 English • 🇪🇸 Español • 🇮🇱 עברית
+  
+<br>
 
 ⚽ Professional Soccer Player • 🇨🇷 Costa Rican • 🏀 NBA Fan
 
