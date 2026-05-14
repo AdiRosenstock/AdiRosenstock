@@ -3,7 +3,9 @@
 ⚽ Interested in tech, soccer analytics, data science, and finance  
 🚀 Building data-driven projects
 
+
 English · Spanish · Hebrew 
+
 
 ⚽ Professional Soccer Player • 🇨🇷 Costa Rican • 🏀 NBA Fan
 
