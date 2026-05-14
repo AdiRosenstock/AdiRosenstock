@@ -1,7 +1,7 @@
 # Adi Rosenstock 🙋‍♂️
 
 📍 Northwestern University   
-🎓 Data Science + Economics @ Northwestern University  
+🎓 Data Science & Economics @ Northwestern University  
 ⚽ Interested in tech, data science, and finance  
 🚀 Building data-driven projects
   
