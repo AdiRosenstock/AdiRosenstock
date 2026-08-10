@@ -3,7 +3,8 @@
 📍 Northwestern University   
 🎓 Data Science & Economics @ Northwestern University  
 ⚽ Interested in tech, data science, and finance  
-🚀 Building data-driven projects
+🚀 Building data-driven projects  
+💻 Data Engineer Intern at Bloomberg (Summer 2026)
   
 <br>
 
