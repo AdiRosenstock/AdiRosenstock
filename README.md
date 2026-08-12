@@ -17,7 +17,7 @@
 ## 🛠️ Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,git" alt="Python, C++, Java, and Git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,git" alt="Python, C++, C, R, Java, and Git" />
 </p>
 
 `SQL` • `Pandas` • `Jupyter` • `LLMs` • `Agentic AI` • `MCP / Model Context Protocol`
