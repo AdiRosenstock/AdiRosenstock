@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech
+## 🛠️ Tech Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,r,git" />
