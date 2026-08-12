@@ -1,14 +1,15 @@
-# Hi, I'm Adi Rosenstock
+# Adi Rosenstock 👋
 
 <a href="https://youtu.be/0mM0pKT_aFI">
-  <img align="right" width="200" src="./assets/adi-soccer.gif" alt="Adi Rosenstock soccer highlight" />
+  <img align="right" width="200" src="./assets/adi-soccer.gif" />
 </a>
 
 🎓 Data Science & Economics @ **Northwestern University**  
 💻 Data Engineer Intern @ **Bloomberg**  
 🚀 Software Engineering • Data • AI • Finance  
-🇨🇷 Costa Rican • ⚽ Professional Soccer Player • 🏀 NBA Fan  
-🌎 English • Español • עברית
+🏆 **3rd in Latin America** • **1st in Central America & the Caribbean** — IMC Prosperity 3  
+🇨🇷 Costa Rican • ⚽ Former Professional Soccer Player • 🏀 NBA Fan  
+🇺🇸 English • 🇪🇸 Español • 🇮🇱 עברית  
 
 <br clear="right"/>
 
@@ -17,10 +18,10 @@
 ## 🛠️ Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,git" alt="Python, C++, C, R, Java, and Git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,r,git" />
 </p>
 
-`SQL` • `Pandas` • `Jupyter` • `LLMs` • `Agentic AI` • `MCP / Model Context Protocol`
+`SQL` • `Pandas` • `Jupyter` • `Apache Iceberg` • `LLMs` • `Agentic AI` • `MCP / Model Context Protocol`
 
 ---
 
