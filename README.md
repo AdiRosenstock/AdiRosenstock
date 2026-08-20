@@ -6,7 +6,7 @@
 
 🎓 Data Science & Economics @ **Northwestern University**  
 💻 Data Engineer Intern @ **Bloomberg**  
-🚀 Software Engineering • Data • AI • Finance  
+🚀 SWE • Data Engineer • Data Science • AI/ML • Finance  
 🏆 **3rd in Latin America** • **1st in Central America & the Caribbean** — IMC Prosperity 3  
 🇨🇷 Costa Rican • ⚽ Former Professional Soccer Player • 🏀 NBA Fan  
 🇺🇸 English • 🇪🇸 Español • 🇮🇱 עברית  
