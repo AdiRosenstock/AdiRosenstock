@@ -1,8 +1,16 @@
 # Adi Rosenstock 👋
 
-<a href="https://youtu.be/0mM0pKT_aFI">
-  <img align="right" width="200" src="./assets/adi-soccer.gif" />
-</a>
+<table align="right">
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/0mM0pKT_aFI">
+        <img width="200" src="./assets/adi-soccer.gif" />
+      </a>
+      <br>
+      <sub>⚽ Playing in 2021, click for full match highlights</sub>
+    </td>
+  </tr>
+</table>
 
 🎓 Data Science & Economics @ **Northwestern University**  
 💻 Data Engineer Intern @ **Bloomberg**  
