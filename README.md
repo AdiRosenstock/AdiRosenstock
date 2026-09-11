@@ -8,7 +8,7 @@
 🇺🇸 English • 🇪🇸 Español • 🇮🇱 עברית  
 
 <p>
-  <a href="./assets/Adi_Rosenstock_Resume.pdf">
+  <a href="./assets/Rosenstock_Adi_Resume.pdf">
     <img src="https://img.shields.io/badge/📄_Resume-View_PDF-2ea44f" />
   </a>
   <a href="https://linkedin.com/in/adirosenstock">
