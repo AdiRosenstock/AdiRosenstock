@@ -1,11 +1,20 @@
 # Adi Rosenstock 👋
 
-🎓 Data Science & Economics @ **Northwestern University**  
+🎓 Computer Science, Data Science & Economics @ **Northwestern University**  
 💻 Former Data Engineer Intern @ **Bloomberg**  
 🚀 Software Engineering • Data Engineering • Data Science • AI/ML • Finance  
 🏆 **3rd in Latin America** • **1st in Central America & the Caribbean** — IMC Prosperity 3  
 🇨🇷 Costa Rican • ⚽ Former Professional Soccer Player • 🏀 NBA Fan  
 🇺🇸 English • 🇪🇸 Español • 🇮🇱 עברית  
+
+<p>
+  <a href="./assets/Adi_Rosenstock_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄_Resume-View_PDF-2ea44f" />
+  </a>
+  <a href="https://linkedin.com/in/adirosenstock">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://youtu.be/0mM0pKT_aFI">
