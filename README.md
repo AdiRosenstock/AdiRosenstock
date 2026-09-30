@@ -1,5 +1,9 @@
 # Adi Rosenstock 👋
 
+![Northwestern University](https://img.shields.io/badge/Northwestern_University-4E2A84?style=flat-square)
+![Bloomberg](https://img.shields.io/badge/Bloomberg-000000?style=flat-square&logoColor=white)
+
+
 🎓 Computer Science, Data Science & Economics @ **Northwestern University**  
 💻 Former Data Engineer Intern @ **Bloomberg**  
 🚀 Software Engineering • Data Engineering • Data Science • AI/ML • Finance  
