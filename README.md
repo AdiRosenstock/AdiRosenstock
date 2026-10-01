@@ -39,6 +39,13 @@
 
 ---
 
+### 💼 [Career Agent](https://github.com/AdiRosenstock/career-agent-public)
+Open-source job application workspace for **Codex and Claude Code**, with company, sponsorship, and compensation filters, duplicate checks, and application preparation for human review. Keeps candidate records private, preserves original documents, and includes guided setup for nontechnical users.
+
+`React` • `TypeScript` • `Express` • `SQLite` • `Supabase` • `Agent Workflows`
+
+---
+
 ### 📈 [IMC Prosperity 3](https://github.com/AdiRosenstock/IMC_Prosperity_3)
 Algorithmic trading strategies using regression, mean reversion, Black-Scholes, volatility analysis, and hedging.
 
