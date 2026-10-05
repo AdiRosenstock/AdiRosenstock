@@ -15,8 +15,13 @@
   <a href="./assets/Rosenstock_Adi_Resume.pdf">
     <img src="https://img.shields.io/badge/📄_Resume-View_PDF-2ea44f" />
   </a>
+
   <a href="https://linkedin.com/in/adirosenstock">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://adirosenstock.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logoColor=white" />
   </a>
 </p>
 
