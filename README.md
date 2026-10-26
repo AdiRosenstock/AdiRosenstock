@@ -44,10 +44,10 @@
 
 ---
 
-### 💼 [Career Agent](https://github.com/AdiRosenstock/career-agent-public)
-Open-source job application workspace for **Codex and Claude Code**, with company, sponsorship, and compensation filters, duplicate checks, and application preparation for human review. Keeps candidate records private, preserves original documents, and includes guided setup for nontechnical users.
+### 📊 [The Paradox of Equality](https://github.com/AdiRosenstock/malthusian-rebellion)
+Modeled how eliminating elite extraction affects population, output, and living standards in a Malthusian economy. Analytical solutions and **5,000 Monte Carlo simulations** show why an immediate doubling of worker consumption fades as population grows. Includes the paper, visualizations, and a reproducible notebook.
 
-`React` • `TypeScript` • `Express` • `SQLite` • `Supabase` • `Agent Workflows`
+`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Jupyter` • `Economic Modeling`
 
 ---
 
