@@ -44,19 +44,19 @@
 
 ---
 
-### 📊 [The Paradox of Equality](https://github.com/AdiRosenstock/malthusian-rebellion)
-Modeled how eliminating elite extraction affects population, output, and living standards in a Malthusian economy. Analytical solutions and **5,000 Monte Carlo simulations** show why an immediate doubling of worker consumption fades as population grows. Includes the paper, visualizations, and a reproducible notebook.
-
-`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Jupyter` • `Economic Modeling`
-
----
-
 ### 📈 [IMC Prosperity 3](https://github.com/AdiRosenstock/IMC_Prosperity_3)
 Algorithmic trading strategies using regression, mean reversion, Black-Scholes, volatility analysis, and hedging.
 
 🏆 **3rd Latin America • 1st Central America & Caribbean**
 
 `Python` • `Quant Finance` • `Statistics`
+
+---
+
+### 📊 [The Paradox of Equality](https://github.com/AdiRosenstock/malthusian-rebellion)
+Modeled how eliminating elite extraction affects population, output, and living standards in a Malthusian economy. Analytical solutions and **5,000 Monte Carlo simulations** show why an immediate doubling of worker consumption fades as population grows. Includes the paper, visualizations, and a reproducible notebook.
+
+`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Jupyter` • `Economic Modeling` • `Econometrics`
 
 ---
 
